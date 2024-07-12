@@ -1,4 +1,4 @@
-# Apolo
+# Apolo - The AI Pal
 
 Team name and members
 Gabriel Dualiby, Gabriel Walisson, Franco Serio, Ivson Viana and Mariana Teixera 
